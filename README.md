@@ -41,7 +41,7 @@ graph TD
 - **Robust Monitoring**: Full observability with Prometheus metrics for every pipeline run.
 - **Resilient Execution**: Redis-backed job queuing ensures no data is lost.
 
-## 🚀 Getting Started
+## 🚀 Lets Get Started
 
 ### Prerequisites
 - Docker & Docker Compose
